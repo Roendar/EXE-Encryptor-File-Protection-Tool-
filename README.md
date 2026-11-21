@@ -7,7 +7,7 @@ A simple tool for protecting executable files through encryption and customizabl
 ## 🚀 How to Use
 
 1. **Start Patch.exe** – You must launch `Patch.exe` first before using any other features. ⚡
-2. 2. **Select EXE** – Choose the executable you want to protect.
+2. **Select EXE** – Choose the executable you want to protect.
 3. **Configure Options** – Adjust the available encryption settings.
 4. **Set Output** – Choose where to save the encrypted file.
 5. **Encrypt** – Start the encryption process.
